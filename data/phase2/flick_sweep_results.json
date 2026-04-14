@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Mode2, 2 flicks",
+    "target_mode": 2,
+    "num_flicks": 2,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 2.6786820888519287,
+    "final_loss": 2.2512497901916504,
+    "improvement": 1.1898643970489502,
+    "iterations": 282,
+    "elapsed_seconds": 4.86391019821167
+  },
+  {
+    "name": "Mode2, 4 flicks",
+    "target_mode": 2,
+    "num_flicks": 4,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 2.436546564102173,
+    "final_loss": 1.9053479433059692,
+    "improvement": 1.278793454170227,
+    "iterations": 284,
+    "elapsed_seconds": 9.003428936004639
+  },
+  {
+    "name": "Mode2, 8 flicks",
+    "target_mode": 2,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 2.1999783515930176,
+    "final_loss": 1.1702193021774292,
+    "improvement": 1.8799710273742676,
+    "iterations": 600,
+    "elapsed_seconds": 38.52106595039368
+  },
+  {
+    "name": "Mode2, 16 flicks",
+    "target_mode": 2,
+    "num_flicks": 16,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 2.615699529647827,
+    "final_loss": 0.5711789727210999,
+    "improvement": 4.579474449157715,
+    "iterations": 670,
+    "elapsed_seconds": 87.94805693626404
+  },
+  {
+    "name": "Mode2, 32 flicks",
+    "target_mode": 2,
+    "num_flicks": 32,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 4.4605536460876465,
+    "final_loss": 0.5408946871757507,
+    "improvement": 8.246621131896973,
+    "iterations": 410,
+    "elapsed_seconds": 115.87313795089722
+  },
+  {
+    "name": "Mode3, 8 flicks",
+    "target_mode": 3,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 3.0449254512786865,
+    "final_loss": 0.7355698347091675,
+    "improvement": 4.1395463943481445,
+    "iterations": 837,
+    "elapsed_seconds": 53.88293194770813
+  },
+  {
+    "name": "Mode4, 8 flicks",
+    "target_mode": 4,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 0,
+    "initial_loss": 2.944838762283325,
+    "final_loss": 1.0206669569015503,
+    "improvement": 2.8852102756500244,
+    "iterations": 884,
+    "elapsed_seconds": 56.87169313430786
+  },
+  {
+    "name": "Mode3\u2192Mode2, 8 flicks",
+    "target_mode": 2,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 3,
+    "initial_loss": 2.321120262145996,
+    "final_loss": 1.2291083335876465,
+    "improvement": 1.8884586095809937,
+    "iterations": 896,
+    "elapsed_seconds": 57.251028060913086
+  },
+  {
+    "name": "Mode2\u2192Mode3, 8 flicks",
+    "target_mode": 3,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 2,
+    "initial_loss": 4.112725257873535,
+    "final_loss": 0.5967450737953186,
+    "improvement": 6.891930103302002,
+    "iterations": 783,
+    "elapsed_seconds": 50.057480812072754
+  },
+  {
+    "name": "Mode2\u2192Circle, 8 flicks",
+    "target_mode": 2,
+    "num_flicks": 8,
+    "num_fingers": 2,
+    "init_mode": 2,
+    "initial_loss": 1.2633273601531982,
+    "final_loss": 0.8023160099983215,
+    "improvement": 1.5746006965637207,
+    "iterations": 637,
+    "elapsed_seconds": 40.732850074768066
+  }
+]
