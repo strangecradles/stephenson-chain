@@ -1,0 +1,8 @@
+numpy
+matplotlib
+
+# The simulation scripts also require NVIDIA Warp and Newton:
+#   pip install warp-lang
+#   pip install newton-physics
+# See https://github.com/newton-physics/newton for install details
+# (src/ imports `warp`, `warp.optim`, `newton`, and `newton.examples`).
